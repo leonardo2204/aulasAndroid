@@ -1,1 +1,1 @@
-include ':Exc1'
+include ':Exc1', ':exc2'
