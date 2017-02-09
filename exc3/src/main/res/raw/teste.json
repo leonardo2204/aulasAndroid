@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "589ca783df2c9a354d82c8bf",
+    "index": 0,
+    "guid": "d45b8303-a733-44d5-9dd7-b055654ee783",
+    "isActive": true,
+    "balance": "$1,422.42",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "brown",
+    "name": "Annette Hanson",
+    "gender": "female",
+    "company": "CRUSTATIA",
+    "email": "annettehanson@crustatia.com",
+    "phone": "+1 (918) 421-2021",
+    "address": "479 Whitty Lane, Innsbrook, Virgin Islands, 9828",
+    "about": "Incididunt sint consectetur irure aute. Est adipisicing ea duis ut id tempor tempor veniam proident veniam. Occaecat do dolor fugiat sunt voluptate aliqua voluptate. Ad sit irure dolor proident aliqua voluptate mollit sit duis adipisicing veniam officia irure pariatur. Ut sunt mollit sit consequat consequat laboris. Adipisicing cillum nisi tempor pariatur velit nulla officia aute. Lorem irure aliqua aliqua ipsum.\r\n",
+    "registered": "2014-01-25T11:34:59 +02:00",
+    "latitude": -68.654588,
+    "longitude": -177.119917,
+    "tags": [
+      "consectetur",
+      "laborum",
+      "ipsum",
+      "officia",
+      "nulla",
+      "excepteur",
+      "cillum"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Kristin Mclean"
+      },
+      {
+        "id": 1,
+        "name": "Lupe Kemp"
+      },
+      {
+        "id": 2,
+        "name": "Manuela Barlow"
+      }
+    ],
+    "greeting": "Hello, Annette Hanson! You have 9 unread messages.",
+    "favoriteFruit": "banana"
+  }
+]
