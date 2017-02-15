@@ -15,7 +15,7 @@ public class ListaContatosActivity extends AppCompatActivity implements ListaCon
         if(getSupportFragmentManager().findFragmentByTag("lista") == null)
             getSupportFragmentManager()
                     .beginTransaction()
-                    .add(R.id.lista_container, new ListaContatosFragment())
+                    .add(R.id.lista_container, new ListaContatosFragment(), "lista")
                     .commit();
     }
 
