@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="leonardo2204.exc10">
-
-    <uses-permission android:name="android.permission.CAMERA" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    package="leonardo2204.exc11">
 
     <application
         android:allowBackup="true"
@@ -18,15 +15,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <service
-            android:name=".ContadorIntentService"
-            android:exported="false" />
-
-        <receiver
-            android:name=".ContadorReceiver"
-            android:enabled="true"
-            android:exported="false"/>
     </application>
 
 </manifest>

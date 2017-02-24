@@ -1,0 +1,5 @@
+O Android 7.0 Nougat introduz diversos novos recursos e possibilidades para usuários e desenvolvedores. Este documento destaca as novidades para os desenvolvedores.
+
+Não deixe de conferir Mudanças de comportamento do Android 7.0 para conhecer as áreas em que as mudanças da plataforma podem afetar seus aplicativos.
+
+Para saber mais dos recursos ao usuário do Android 7.0, acesse www.android.com.
